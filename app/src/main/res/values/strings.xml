@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Riddle</string>
+    <string name="question1">Question 1
+        This world has the same pronunciation even after removing 4 letters from it</string>
+    <string name="question2">Question 2
+        How do you make 1 disappear </string>
+</resources>
